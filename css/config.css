@@ -1,0 +1,13 @@
+*{
+    color: rgb(0, 0, 0);
+    padding: 3px;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: black;
+    font-size: 10px;
+}
+.root{
+    width: 100%;
+}
